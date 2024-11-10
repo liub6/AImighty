@@ -1,6 +1,3 @@
-# AImighty
-Android application for fast scan and smart recgoniton
-
 # SnapScribe: Contributing to Digital Twins with the Snap of a Finger
 
 ## Introduction
